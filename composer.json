@@ -1,0 +1,24 @@
+{
+    "name": "hsameerc/laravel-modular-structure",
+    "description": "Modular Structure Generator for Laravel 5 ",
+    "keywords": ["laravel", "modular", "modules", "module", "structure", "Sameer", "Humagain", "artisan", "generator"],
+    "homepage": "https://github.com/hsameerc/LaravelModularStructure",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Sameer Humagain",
+            "email": "im@hsameer.com.np"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/framework": ">=5.1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hsameerc\\LaravelModularStructure\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
